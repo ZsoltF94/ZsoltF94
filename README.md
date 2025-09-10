@@ -1,4 +1,3 @@
-# Hi there!
 ## About me
 - I’m currently working the game "Forgotten" with my team FSF Games
 - I’m learning and working in Unity
