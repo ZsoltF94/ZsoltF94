@@ -1,4 +1,7 @@
 # Hi there!
+## About me
+- I’m currently working the game "Forgotten" with my team FSF Games
+- I’m learning and working in Unity
 
 ## GameJams:
 - [Rooms - GMTK GameJam](https://fsf-games.itch.io/rooms)
@@ -10,7 +13,5 @@
 ## Homepage (soon to be updated)
 - [Homepage](https://brave-bush-0c0771610.2.azurestaticapps.net/)
 
-## About me
-- I’m currently working the game "Forgotten" with my team FSF Games
-- I’m learning and working in Unity
+
 
