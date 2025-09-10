@@ -2,7 +2,7 @@
 
 ## GameJams:
 - [Rooms - GMTK GameJam](https://fsf-games.itch.io/rooms)
-- [Plague Doctor - Abyssal's GameJam](https://fsf-games.itch.io/rooms)
+- [Plague Doctor - Abyssal's GameJam](https://fsf-games.itch.io/plague-doctor)
 
 ## Homepage (soon to be updated)
 - [Homepage](https://brave-bush-0c0771610.2.azurestaticapps.net/)
