@@ -12,5 +12,5 @@
 
 ## About me
 - I’m currently working the game "Forgotten" with my team FSF Games
-- I’m currently learning Unity
+- I’m learning and working in Unity
 
